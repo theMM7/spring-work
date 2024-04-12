@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=ru.siebel.spring.springwork.processors.CustomEnvPostProcessor
+org.springframework.context.ApplicationContextInitializer=ru.siebel.spring.springwork.config.CheckInitializer

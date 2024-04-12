@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: spring-work
+
+service:
+  configuration:
+    properties:
+      key: 1
+      value: Common value
+      description: Common description
+      isBoolean: true
+
+someOne: dkjhash
+sometwo: dsjakhdkja
+
+some:
+  config:
+    value: One string
+
+conditional:
+  firstFlag: true
+  secondFlag: false
+  thirdFlag: true

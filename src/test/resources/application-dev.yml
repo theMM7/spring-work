@@ -1,0 +1,10 @@
+service:
+  configuration:
+    properties:
+      key: 736128756
+      value: DEv value
+      isBoolean: true
+      
+some:
+  config:
+    value: Test string

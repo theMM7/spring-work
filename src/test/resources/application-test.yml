@@ -1,0 +1,10 @@
+service:
+  configuration:
+    properties:
+      key: 746
+      value: Test value
+      isBoolean: false
+      
+some:
+  config:
+    value: Test string
